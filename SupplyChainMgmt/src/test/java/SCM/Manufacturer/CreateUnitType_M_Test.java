@@ -16,7 +16,7 @@ import com.comcast.crm.objectrepositoryutility.addingNewUnitPage;
 import com.comcast.crm.objectrepositoryutility.ManageUnitPage;
 import com.comcast.crm.objectrepositoryutility.manufacturerHomePage;
 
-public class CreateUnitType_M 
+public class CreateUnitType_M_Test 
 {
 	WebDriver driver;
 	@Test
