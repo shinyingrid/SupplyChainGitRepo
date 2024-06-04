@@ -12,7 +12,7 @@ import com.comcast.crm.objectrepositoryutility.editManProfilePage;
 import com.comcast.crm.objectrepositoryutility.manufacturerHomePage;
 
 import junit.framework.Assert;
-
+//Creating a class
 public class EditManProfileTest 
 {
 	@Test
